@@ -19,7 +19,7 @@ Given a review of a moview, the algorithm will classofy its sentiments as either
 | How does this model compare to the XGBoost model?               | Answer describes the differences between the RNN model and the XGBoost model and how they perform on the IMDB data. |<ul><li>[x] </li></ul>|
 | Process the test review               | The test review has been processed correctly and stored in the test_data variable.  |<ul><li>[x] </li></ul>|
 | Writing inference code               | The `predict_fn()` method in serve/predict.py has been implemented.  |<ul><li>[x] </li></ul>|
-| The web app is deployed               | The model is deployed and the Lambda / API Gateway integration is complete so that the web app works (make sure to include your modified index.html). |<ul><li>[ ] </li></ul>|
+| The web app is deployed               | The model is deployed and the Lambda / API Gateway integration is complete so that the web app works (make sure to include your modified index.html). |<ul><li>[x] </li></ul>|
 | Give an example review and response               | Answer gives a sample review and the resulting predicted sentiment.  |<ul><li>[x] </li></ul>|
 | Prepare report                        | Refer the [rubrics](https://review.udacity.com/#!/rubrics/2262/view)  |<ul><li>[x] </li></ul>|
 
